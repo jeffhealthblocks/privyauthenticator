@@ -9,7 +9,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Welcome to Healthblocks authenticator
+          Welcome to Healthblocks authenticator - Login Below
         </p>
         <PrivyAuthDemo />
       </header>
